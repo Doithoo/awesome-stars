@@ -207,7 +207,7 @@
 
 * [woniu9524/ParallelChat](https://github.com/woniu9524/ParallelChat) - ParallelChat 是一款开源的多 AI 并行对话桌面应用，让你在一个界面中同时使用 ChatGPT、Kimi、Qwen、DeepSeek、GLM、Doubao、Yuanbao、Grok 等主流大模型，无需 API Key，完全免费。
 
-* [docmd-io/docmd](https://github.com/docmd-io/docmd) - Build production-ready documentation from Markdown in seconds. No React, no bloat, just content.
+* [docmd-io/docmd](https://github.com/docmd-io/docmd) - Documentation compiler for humans and machines. One Markdown source, one command — website, search, AI context, and knowledge formats together.
 
 * [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 
