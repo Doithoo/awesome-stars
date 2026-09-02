@@ -84,7 +84,7 @@
 
 * [corvo007/MioSub](https://github.com/corvo007/MioSub) - 一站式全自动字幕生成软件，下载、转录、翻译、压制全流程覆盖，无需人工介入 / One-stop automated subtitle generator. Handles downloading, transcription, translation, and hardcoding—zero human intervention required.
 
-* [seo-skills/seo-audit-skill](https://github.com/seo-skills/seo-audit-skill) - A comprehensive SEO audit command-line tool with 108 audit rules across 12 categories. Analyze any website for SEO best practices, Core Web Vitals, security headers, structured data, accessibility, and more.
+* [seo-skills/seo-audit-skill](https://github.com/seo-skills/seo-audit-skill) - A comprehensive SEO audit command-line tool with 332 audit rules across 20 categories. Analyze any website for SEO best practices, Core Web Vitals, security headers, structured data, accessibility, and more.
 
 * [J3n5en/EnsoAI](https://github.com/J3n5en/EnsoAI) - Multiple Agents, Parallel Flow
 
