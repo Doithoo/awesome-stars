@@ -174,7 +174,7 @@
 
 * [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 
-* [docmd-io/docmd](https://github.com/docmd-io/docmd) - Documentation compiler for humans and machines. One Markdown source, one command — website, search, AI context, and knowledge formats together.
+* [docmd-io/docmd](https://github.com/docmd-io/docmd) - Documentation compiler for humans and machines. One Markdown source to website, search, AI context, and knowledge formats together.
 
 * [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 
