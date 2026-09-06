@@ -236,7 +236,7 @@
 
 * [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 
-* [deluxebear/n8n](https://github.com/deluxebear/n8n) - 持续跟进官方最新版本
+* [deluxebear/n8n](https://github.com/deluxebear/n8n) - 基于 n8n 的中文本地化版本（chs 分支持续跟进官方）—— AI 智能体与工作流自动化
 
 * [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。
 
