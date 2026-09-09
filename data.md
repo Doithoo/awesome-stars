@@ -30,7 +30,6 @@
 * [Kotlin](#kotlin)
 * [Scala](#scala)
 * [Cuda](#cuda)
-* [Roff](#roff)
 * [Less](#less)
 * [LLVM](#llvm)
 
@@ -1371,10 +1370,6 @@
 ## Cuda
 
 * [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - Modern CUDA Learn Notes with PyTorch for Beginners, 200+ CUDA Kernels, Tensor Cores, HGEMM, FA-2 MMA.
-
-## Roff
-
-* [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ## Less
 
