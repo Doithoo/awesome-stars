@@ -35,7 +35,7 @@
   },
   "homepage": "https://doithoo.github.io/awesome-stars/",
   "devDependencies": {
-    "@playwright/test": "^1.61.1",
+    "@playwright/test": "^1.63.0",
     "serve": "^14.2.1",
     "yaml": "^2.9.0"
   }
