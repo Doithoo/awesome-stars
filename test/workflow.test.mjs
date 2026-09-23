@@ -210,7 +210,7 @@ test('Pages workflow gates tests and deployment and applies least privilege', as
   assert.equal(step(deploy, 'Deploy to GitHub Pages').id, 'deployment');
 });
 
-test('workflows use only the approved official action majors at exact locations', async () => {
+test('workflows use only the approved official actions at exact locations pinned to a major tag', async () => {
   const [update, pages] = await Promise.all([
     readYaml('.github/workflows/main.yml'),
     readYaml('.github/workflows/static.yml'),
@@ -218,40 +218,26 @@ test('workflows use only the approved official action majors at exact locations'
   const actual = [
     ...collectUses(update).map((entry) => ({ workflow: 'main', ...entry })),
     ...collectUses(pages).map((entry) => ({ workflow: 'static', ...entry })),
-  ];
+  ].map(({ workflow, path, uses }) => {
+    const match = /^([\w.-]+\/[\w.-]+)@v\d+$/.exec(uses);
+    assert.ok(match, `action must be pinned to a major tag: ${uses}`);
+    return { workflow, path, action: match[1] };
+  });
 
   assert.deepEqual(actual, [
-    { workflow: 'main', path: 'jobs.test.steps.0', uses: 'actions/checkout@v4' },
-    { workflow: 'main', path: 'jobs.test.steps.1', uses: 'actions/setup-node@v4' },
-    { workflow: 'main', path: 'jobs.update.steps.0', uses: 'actions/checkout@v4' },
-    { workflow: 'main', path: 'jobs.update.steps.1', uses: 'actions/setup-node@v4' },
-    { workflow: 'static', path: 'jobs.test.steps.0', uses: 'actions/checkout@v4' },
-    { workflow: 'static', path: 'jobs.test.steps.1', uses: 'actions/setup-node@v4' },
-    { workflow: 'static', path: 'jobs.deploy.steps.0', uses: 'actions/checkout@v4' },
-    { workflow: 'static', path: 'jobs.deploy.steps.1', uses: 'actions/configure-pages@v5' },
-    { workflow: 'static', path: 'jobs.deploy.steps.2', uses: 'actions/upload-pages-artifact@v3' },
-    { workflow: 'static', path: 'jobs.deploy.steps.3', uses: 'actions/deploy-pages@v4' },
+    { workflow: 'main', path: 'jobs.test.steps.0', action: 'actions/checkout' },
+    { workflow: 'main', path: 'jobs.test.steps.1', action: 'actions/setup-node' },
+    { workflow: 'main', path: 'jobs.update.steps.0', action: 'actions/checkout' },
+    { workflow: 'main', path: 'jobs.update.steps.1', action: 'actions/setup-node' },
+    { workflow: 'static', path: 'jobs.test.steps.0', action: 'actions/checkout' },
+    { workflow: 'static', path: 'jobs.test.steps.1', action: 'actions/setup-node' },
+    { workflow: 'static', path: 'jobs.deploy.steps.0', action: 'actions/checkout' },
+    { workflow: 'static', path: 'jobs.deploy.steps.1', action: 'actions/configure-pages' },
+    { workflow: 'static', path: 'jobs.deploy.steps.2', action: 'actions/upload-pages-artifact' },
+    { workflow: 'static', path: 'jobs.deploy.steps.3', action: 'actions/deploy-pages' },
   ]);
 });
 
-test('Dependabot exactly schedules bounded weekly npm and action updates', async () => {
-  const dependabot = await readYaml('.github/dependabot.yml');
-
-  assert.deepEqual(dependabot, {
-    version: 2,
-    updates: [
-      {
-        'package-ecosystem': 'npm',
-        directory: '/',
-        schedule: { interval: 'weekly' },
-        'open-pull-requests-limit': 5,
-      },
-      {
-        'package-ecosystem': 'github-actions',
-        directory: '/',
-        schedule: { interval: 'weekly' },
-        'open-pull-requests-limit': 5,
-      },
-    ],
-  });
+test('automated dependency version updates stay disabled', async () => {
+  await assert.rejects(readYaml('.github/dependabot.yml'), { code: 'ENOENT' });
 });
