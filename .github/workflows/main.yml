@@ -1,0 +1,75 @@
+name: Update awesome list
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+
+permissions: {}
+
+concurrency:
+  group: update-awesome-list
+  cancel-in-progress: false
+
+jobs:
+  test:
+    if: github.event_name != 'workflow_dispatch' || github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Test generator and UI
+        run: npm run test:all
+
+  update:
+    if: github.event_name != 'workflow_dispatch' || github.ref_name == github.event.repository.default_branch
+    needs: test
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Generate awesome list
+        run: node scripts/update-awesome-list.mjs
+        env:
+          API_TOKEN: ${{ secrets.API_TOKEN }}
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json data.md
+
+          if git diff --cached --quiet; then
+            echo "No starred repository changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore(updates): update starred repositories"
+          git push

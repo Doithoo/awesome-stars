@@ -1,0 +1,42 @@
+{
+  "name": "awesome-stars",
+  "version": "1.0.0",
+  "description": "A searchable, responsive catalog of GitHub repositories starred by Doithoo",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve . --listen 3000",
+    "dev": "serve . --listen 3000",
+    "serve": "serve . --listen 8000",
+    "build": "echo 'Static site - no build needed'",
+    "preview": "serve . --listen tcp://127.0.0.1:4173 --no-clipboard --no-port-switching",
+    "test": "node --test",
+    "test:e2e": "playwright test",
+    "test:all": "npm test && npm run test:e2e",
+    "update-awesome-list": "node scripts/update-awesome-list.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doithoo/awesome-stars.git"
+  },
+  "keywords": [
+    "github",
+    "repositories",
+    "showcase",
+    "portfolio",
+    "responsive",
+    "vanilla-js",
+    "css-grid",
+    "accessibility"
+  ],
+  "author": "Doithoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Doithoo/awesome-stars/issues"
+  },
+  "homepage": "https://doithoo.github.io/awesome-stars/",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "serve": "^14.2.1",
+    "yaml": "^2.9.0"
+  }
+}
