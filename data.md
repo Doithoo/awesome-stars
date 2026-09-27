@@ -114,6 +114,8 @@
 
 * [Nutlope/inspo](https://github.com/Nutlope/inspo) - Real websites for your coding agent to learn design from, searchable over MCP.
 
+* [Atharvsinh-codez/ObsidianUI](https://github.com/Atharvsinh-codez/ObsidianUI) - React & Tailwind CSS Components Library
+
 * [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 
 * [TanStack/markdown](https://github.com/TanStack/markdown) - Tiny, fast Markdown parsing and rendering for blogs and documentation
