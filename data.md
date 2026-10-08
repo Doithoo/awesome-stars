@@ -460,7 +460,7 @@
 
 * [mcncarl/yichen-skills](https://github.com/mcncarl/yichen-skills) -
 
-* [yi1108/printfilm](https://github.com/yi1108/printfilm) - PRINTFILM：AI 视频获客与 AI短剧创作平台
+* [yi1108/printfilm](https://github.com/yi1108/printfilm) - PRINTFILM: AI short-video marketing and AI short-drama creation platform
 
 * [latent-spaces/brag](https://github.com/latent-spaces/brag) - You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.
 
@@ -874,7 +874,7 @@
 
 * [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 
-* [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+* [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
 
 * [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 
