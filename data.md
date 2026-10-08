@@ -106,7 +106,7 @@
 
 * [IgorWarzocha/howcode](https://github.com/IgorWarzocha/howcode) - The Pi desktop app you want to use.
 
-* [CruxGarden/plasma-ui](https://github.com/CruxGarden/plasma-ui) - Liquid glass panels for React
+* [CruxGarden/plasma-ui](https://github.com/CruxGarden/plasma-ui) - Liquid glass components for React
 
 * [badlogic/sitegeist](https://github.com/badlogic/sitegeist) - An AI assistant that lives in your browser. Built for collaboration, not autonomy theater. You guide, it executes. Automate repetitive web tasks, extract data from any website, and transform it into whatever you need.
 
