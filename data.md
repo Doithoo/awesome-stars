@@ -1100,7 +1100,7 @@
 
 * [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 
-* [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Full-system ad-blocker and privacy guard for Windows, macOS and Linux.
+* [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - System-wide ad-blocker and privacy guard for Windows, macOS and Linux.
 
 * [ludo-technologies/pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analysis for Python in the age of AI coding.
 
