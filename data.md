@@ -488,8 +488,6 @@
 
 * [anthropics/financial-services](https://github.com/anthropics/financial-services) -
 
-* [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
-
 * [bradautomates/claude-video](https://github.com/bradautomates/claude-video) - Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
 
 * [wy51ai/edulab](https://github.com/wy51ai/edulab) -
