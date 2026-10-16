@@ -70,6 +70,8 @@
 
 * [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 
+* [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
+
 * [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
 
 * [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
@@ -1022,8 +1024,6 @@
 
 * [zhongerxin/Cowart](https://github.com/zhongerxin/Cowart) -
 
-* [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
-
 * [huangserva/3DCellForge](https://github.com/huangserva/3DCellForge) - AI-powered interactive 3D model generation, inspection, and presentation studio.
 
 * [YuChiHuaCheng/vision-cull-pro](https://github.com/YuChiHuaCheng/vision-cull-pro) - 一款专为摄影师设计的本地 AI 选片工具。自动剔除跑焦、闭眼废片，并无损生成兼容 Lightroom 的 XMP 星级标签。
@@ -1412,7 +1412,7 @@
 
 ## C
 
-* [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+* [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 162 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 
 * [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 
