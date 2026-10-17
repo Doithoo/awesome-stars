@@ -486,7 +486,7 @@
 
 * [peetzweg/commit-history](https://github.com/peetzweg/commit-history) - Watch any GitHub user's commits stack up across their whole coding career as one rising chart — like star-history, but for commits. Compare users, embed a live SVG in your README.
 
-* [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+* [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 
 * [hypit-ai/hypit](https://github.com/hypit-ai/hypit) - Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
 
