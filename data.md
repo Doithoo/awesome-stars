@@ -124,7 +124,7 @@
 
 * [pireel/pireel](https://github.com/pireel/pireel) - The open-source alternative to Capcut、ChatCut. Drivable by any AI agent over MCP.
 
-* [Jakubantalik/Libraries.dev](https://github.com/Jakubantalik/Libraries.dev) - High-crafted UI libraries for AI agents: Border beam, Orbs, Metal, Gooey, Voice, Image, Avatar bots
+* [Jakubantalik/Libraries.dev](https://github.com/Jakubantalik/Libraries.dev) - Libraries and models for next-gen UI
 
 * [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) - Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light
 
@@ -1458,7 +1458,7 @@
 
 ## C
 
-* [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 162 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+* [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.
 
 * [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 
@@ -1569,6 +1569,8 @@
 ## Vue
 
 * [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
+
+* [liu-ziting/what-to-eat](https://github.com/liu-ziting/what-to-eat) - 一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。
 
 ## Scala
 
