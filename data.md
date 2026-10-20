@@ -116,6 +116,8 @@
 
 * [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
+* [baairon/torlink](https://github.com/baairon/torlink) - 👾 A sleek, zero-setup torrent finder and downloader that lives right in your terminal.
+
 * [thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy) - An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol
 
 * [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
