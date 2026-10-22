@@ -416,7 +416,7 @@
 
 * [HeyPuter/everything](https://github.com/HeyPuter/everything) - We're rebuilding and open-sourcing the world’s software from scratch.
 
-* [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) - Claude Code skill for short films with no video model: 51 film styles, each a style prompt plus a demo film made entirely in code by Claude Opus 5.5 (incl. OPUSCAR 98 and the new Evidence Films). By Lemomo. · Opus5.5 x 51 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南（新增「实证影像」）
+* [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) - A toolbox of film styles made in code for Claude Code: 59 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：59 种现成风格，也能做出你自己的
 
 * [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) - 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.
 
@@ -437,6 +437,8 @@
 * [chuspeeism/iphone-duo](https://github.com/chuspeeism/iphone-duo) - Interactive iPhone Duo fold animation with projected screen UI, progressive blur, and custom image uploads. Built with Three.js.
 
 * [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+
+* [wy51ai/edulab](https://github.com/wy51ai/edulab) -
 
 * [zhongerxin/Cowart](https://github.com/zhongerxin/Cowart) -
 
@@ -742,7 +744,7 @@
 
 * [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 
-* [tw93/Kaku](https://github.com/tw93/Kaku) - An AI-friendly Mac terminal with sensible defaults, ready out of the box.
+* [tw93/Kaku](https://github.com/tw93/Kaku) - A fast, good-looking, AI-friendly terminal for the Mac.
 
 * [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
@@ -752,7 +754,7 @@
 
 * [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 
-* [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
+* [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome
 
 * [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 
@@ -823,8 +825,6 @@
 * [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 
 * [bradautomates/claude-video](https://github.com/bradautomates/claude-video) - Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
-
-* [wy51ai/edulab](https://github.com/wy51ai/edulab) -
 
 * [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 
