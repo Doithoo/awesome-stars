@@ -992,7 +992,7 @@
 
 * [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 
-* [browserbase/stagehand-python](https://github.com/browserbase/stagehand-python) - The AI Browser Automation Framework
+* [browserbase/stagehand-python](https://github.com/browserbase/stagehand-python) - ⚠️ No longer maintained  The official Stagehand Python source has moved here. Documentation can be found here  This version of the Stagehand Python SDK is no longer maintained and will not receive updates, bug fixes, or security patches.
 
 * [YILING0013/AI\_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator) - 使用ai生成多章节的长篇小说，自动衔接上下文、伏笔
 
