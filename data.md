@@ -64,6 +64,8 @@
 
 * [wy51ai/edulab](https://github.com/wy51ai/edulab) -
 
+* [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) - ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
+
 * [zhongerxin/Cowart](https://github.com/zhongerxin/Cowart) -
 
 * [huangserva/3DCellForge](https://github.com/huangserva/3DCellForge) - AI-powered interactive 3D model generation, inspection, and presentation studio.
@@ -1455,8 +1457,6 @@
 ## CSS
 
 * [adamholter/hive-mind-landing-page](https://github.com/adamholter/hive-mind-landing-page) - CHORUS Hive Mind landing page — source, prompts, frontend skills, generated design reference, and sanitized Codex build trace
-
-* [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) - ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
 
 ## C
 
