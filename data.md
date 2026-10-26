@@ -1312,7 +1312,7 @@
 
 * [KelvinJin/AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.
 
-* [joewongjc/type4me](https://github.com/joewongjc/type4me) - MacOS语音输入法，实时识别、大模型文本优化、全本地存储
+* [joewongjc/type4me](https://github.com/joewongjc/type4me) - MacOS/iOS 语音输入法，实时识别、大模型文本优化、全本地存储
 
 * [wzh4869/AppPorts](https://github.com/wzh4869/AppPorts) - 📦 A macOS utility to seamlessly migrate applications to external storage and reclaim local disk space.【一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间】
 
