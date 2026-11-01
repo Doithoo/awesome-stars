@@ -541,7 +541,7 @@
 
 * [martin226/vibe-draw](https://github.com/martin226/vibe-draw) - 🎨 Turn your roughest sketches into stunning 3D worlds by vibe drawing
 
-* [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) - Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.
+* [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) - Formerly KrillinAI, VideoTranslation and Dubbing Tool for 120+ Languages. Open-source AI workspace for creators, powered by Codex. Video downloader, video translation, create videos, images, audios, and edits with Agents in one place. For your Social Media like YouTube, TikTok, Instagram, etc.
 
 * [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 
