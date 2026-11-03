@@ -26,6 +26,7 @@
 * [MATLAB](#matlab)
 * [C++](#c-2)
 * [PHP](#php)
+* [Astro](#astro)
 * [TeX](#tex)
 * [Vue](#vue)
 * [Scala](#scala)
@@ -1013,8 +1014,6 @@
 
 * [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 
-* [bbylw/ui-ux-pro-max-skill-cn](https://github.com/bbylw/ui-ux-pro-max-skill-cn) - 本网站是 UI/UX Pro Max 技能库的官方中文教程，完整翻译并本地化了原始 README 的所有内容，帮助中文开发者快速上手这个强大的 AI 设计技能。
-
 * [joyce677/TrendRadar](https://github.com/joyce677/TrendRadar) - 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用
 
 * [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -1269,7 +1268,7 @@
 
 * [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 
-* [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first AI meeting note taker. Download Free and open source granola, otter ai, fireflies alternative. Parakeet / Whisper live transcription, on-device speaker diarization, built on Rust. 100% local processing. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker & Assistant for macOS & Windows
+* [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.ai
 
 * [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 
@@ -1586,6 +1585,10 @@
 * [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
 
 * [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
+
+## Astro
+
+* [bbylw/ui-ux-pro-max-skill-cn](https://github.com/bbylw/ui-ux-pro-max-skill-cn) - 本网站是 UI/UX Pro Max 技能库的官方中文教程，完整翻译并本地化了原始 README 的所有内容，帮助中文开发者快速上手这个强大的 AI 设计技能。
 
 ## TeX
 
