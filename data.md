@@ -36,6 +36,10 @@
 
 ## Rust
 
+* [longbridge/nsh](https://github.com/longbridge/nsh) - Native Shell is a native UI framework for iOS, Android, macOS, Windows, Linux and the web, built in Rust.
+
+* [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+
 * [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own.
 
 * [xerj-org/xerj](https://github.com/xerj-org/xerj) - AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.
@@ -364,7 +368,7 @@
 
 * [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 
-* [ModelCloud/GPTQModel](https://github.com/ModelCloud/GPTQModel) - LLM model quantization (compression) toolkit with HW acceleration support for Nvidia, AMD, Intel GPU and Intel/AMD/Apple CPU via HF, vLLM, and SGLang.
+* [ModelCloud/GPTQModel](https://github.com/ModelCloud/GPTQModel) - LLM model quantization (compression) toolkit with HW acceleration support for Nvidia (CUDA), AMD (ROCm), Intel GPU (XPU), Huawei Ascent (NPU), and Intel/AMD/Apple CPU via HF, vLLM, and SGLang.
 
 * [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc) - Thin wrapper for "pandoc" (MIT)
 
