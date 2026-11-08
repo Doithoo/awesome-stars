@@ -2,18 +2,18 @@
 
 ## Table of Contents
 
-* [Go](#go)
 * [Rust](#rust)
+* [Swift](#swift)
+* [Go](#go)
 * [Python](#python)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
 * [TypeScript](#typescript)
-* [HTML](#html)
 * [Markdown](#markdown)
 * [miscellaneous](#miscellaneous)
 * [Java](#java)
-* [Swift](#swift)
 * [Objective-C](#objective-c)
+* [HTML](#html)
 * [Dart](#dart)
 * [Shell](#shell)
 * [PowerShell](#powershell)
@@ -33,67 +33,9 @@
 * [Less](#less)
 * [LLVM](#llvm)
 
-## Go
-
-* [egoist/mygo-music](https://github.com/egoist/mygo-music) - A native music player you extend with plugins
-
-* [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
-
-* [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
-
-* [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-
-* [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
-
-* [overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned) - Makes PDFs look scanned (CLI or in the browser via WASM)
-
-* [Zesuy/Plugin-Deepseek-Vision](https://github.com/Zesuy/Plugin-Deepseek-Vision) - CLIProxyAPI v7 plugin for DeepSeek Responses vision preprocessing
-
-* [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
-
-* [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more
-
-* [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
-
-* [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
-
-* [larksuite/cli](https://github.com/larksuite/cli) - The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.
-
-* [ArvinLovegood/go-stock](https://github.com/ArvinLovegood/go-stock) - 🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
-
-* [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
-
-* [dennisyang1986/opensqt\_market\_maker](https://github.com/dennisyang1986/opensqt_market_maker) - OpenSQT 是一个高性能、低延迟的加密货币做市商系统，专注于永续合约市场的做多网格交易策略。系统采用 Go 语言开发，基于 WebSocket 实时数据流驱动，旨在为 Binance、Bitget、Gate.io 等主流交易所提供稳定的流动性支持。
-
-* [browserwing/browserwing](https://github.com/browserwing/browserwing) - BrowserWing turns your browser actions into MCP commands Or Claude Skill, allowing AI agents to control browsers efficiently and reliably. Say goodbye to slow, token-heavy LLM interactions — let agents call commands directly for faster automation. Perfect for AI-driven tasks, browser automation, and boosting productivity.
-
-* [binggandata/feishu2mp](https://github.com/binggandata/feishu2mp) -
-
-* [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
-
-* [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
-
-* [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - System-wide ad-blocker and privacy guard for Windows, macOS and Linux.
-
-* [ludo-technologies/pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analysis for Python in the age of AI coding.
-
-* [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-
-* [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
-
-* [NVIDIA/nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) - Build and run containers leveraging NVIDIA GPUs
-
-* [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-
-* [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
-
-* [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.
-
-* [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
-
-* [symflower/eval-dev-quality](https://github.com/symflower/eval-dev-quality) - DevQualityEval: An evaluation benchmark 📈 and framework to compare and evolve the quality of code generation of LLMs.
-
 ## Rust
+
+* [muxy-app/muxy](https://github.com/muxy-app/muxy) - Lightweight and Memory efficient terminal multiplexer
 
 * [longbridge/nsh](https://github.com/longbridge/nsh) - Native Shell is a native UI framework for iOS, Android, macOS, Windows, Linux and the web, built in Rust.
 
@@ -169,6 +111,150 @@
 
 * [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 
+## Swift
+
+* [lifedever/TaskTick](https://github.com/lifedever/TaskTick) - A native macOS app for managing scheduled tasks. Built with SwiftUI + SwiftData. Menu bar resident, cron expressions, script execution, and more.
+
+* [bysiber/cleardisk](https://github.com/bysiber/cleardisk) - Free macOS menu bar app to visualize and clean developer caches (Xcode, node\_modules, CocoaPods, SPM, Docker, pip, Cargo). Reclaim disk space instantly.
+
+* [eliorpom-cmd/to-be-downloaded](https://github.com/eliorpom-cmd/to-be-downloaded) - A native macOS downloader built on yt-dlp. Paste a link, get the file — and drive it from your phone over your own Wi-Fi.
+
+* [thsnkhn/harbor](https://github.com/thsnkhn/harbor) - Beautiful native macOS download manager for direct links, magnets, and torrents.
+
+* [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
+
+* [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app
+
+* [RoversX/LaunchNext](https://github.com/RoversX/LaunchNext) - Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free.
+
+* [EEliberto/SurgeRelay-macOS](https://github.com/EEliberto/SurgeRelay-macOS) - 在 Mac 上管理、转换、编辑或分发 Surge 模块，通过固定订阅地址让 iPhone、iPad、Apple TV 和 Mac 等多款设备保持同步。
+
+* [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free, open-source native database client for macOS, Linux, iPhone and iPad.
+
+* [alejandrobujan/tendedero](https://github.com/alejandrobujan/tendedero) - Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.
+
+* [haplollc/ThinkingOrbs](https://github.com/haplollc/ThinkingOrbs) - Dotted, honestly-3D loading indicators for AI and agent interfaces in SwiftUI. Nine hand-tuned designs, two tuned sizes.
+
+* [robbietilton/Compositor](https://github.com/robbietilton/Compositor) - The Photoshop alternative for Mac
+
+* [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew's official macOS GUI
+
+* [sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo) - Wish you could bring the iPhone Duo effect to your MacBook?
+
+* [fayazara/Screendrop](https://github.com/fayazara/Screendrop) - A beautiful screenshot + screen recording + Loom alternative - all native, self hostable and free.
+
+* [steipete/RepoBar](https://github.com/steipete/RepoBar) - Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.
+
+* [bahattinkoc/ipaverse](https://github.com/bahattinkoc/ipaverse) - Download, re-sign, and sideload iOS, iPadOS, macOS, tvOS & visionOS apps without Xcode or Terminal — plus an authorized security-testing toolkit (ATS bypass, Frida injection, static scan, FairPlay dump).
+
+* [pluk-inc/Pluk](https://github.com/pluk-inc/Pluk) - Native macOS database client for MongoDB, Postgres, Convex, MySQL, & SQLite. AI does the querying, you explore your data ✨
+
+* [pluk-inc/himekuri](https://github.com/pluk-inc/himekuri) -
+
+* [pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview) - A simple Markdown viewer for reading .md files
+
+* [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor for Mac, iOS and iPadOS
+
+* [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
+
+* [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
+
+* [himomohi/AirTranslate](https://github.com/himomohi/AirTranslate) - AirTranslate macOS app
+
+* [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+
+* [mylxsw/typeflux](https://github.com/mylxsw/typeflux) - Typeflux is a macOS menu bar voice input tool built with Swift. It is designed for a fast "hold to talk, release to insert" workflow: press a hotkey, speak naturally, let the app transcribe your speech, and send the resulting text back into the currently focused app.
+
+* [AssistoLab/DropDown](https://github.com/AssistoLab/DropDown) - A Material Design drop down for iOS
+
+* [KelvinJin/AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.
+
+* [joewongjc/type4me](https://github.com/joewongjc/type4me) - MacOS/iOS 语音输入法，实时识别、大模型文本优化、全本地存储
+
+* [wzh4869/AppPorts](https://github.com/wzh4869/AppPorts) - 📦 A macOS utility to seamlessly migrate applications to external storage and reclaim local disk space.【一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间】
+
+* [maustinstar/swiftui-drawer](https://github.com/maustinstar/swiftui-drawer) - A SwiftUI bottom-up controller, like in the Maps app. Drag to expand or minimize.
+
+* [nathantannar4/Engine](https://github.com/nathantannar4/Engine) - Engine makes it easier to create idiomatic APIs and Views that feel natural in SwiftUI without sacrificing performance
+
+* [jordansinger/SwiftUI-Kit](https://github.com/jordansinger/SwiftUI-Kit) - A SwiftUI system components and interactions demo app
+
+* [peripheryapp/periphery](https://github.com/peripheryapp/periphery) - A tool to identify unused code in Swift projects.
+
+* [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A light, native Markdown notebook for Mac, iPhone and iPad.
+
+* [nook-browser/Nook](https://github.com/nook-browser/Nook) - A new browser, not owned by Atlassian.
+
+* [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
+
+* [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - macOS Adobe apps download & installer
+
+* [ggkevinnnn/LaunchNow](https://github.com/ggkevinnnn/LaunchNow) - Alternative Launchpad for MacOS Tahoe & Golden Gate.
+
+* [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
+
+* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+
+## Go
+
+* [egoist/mygo-music](https://github.com/egoist/mygo-music) - A native music player you extend with plugins
+
+* [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
+
+* [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
+
+* [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+
+* [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
+
+* [overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned) - Makes PDFs look scanned (CLI or in the browser via WASM)
+
+* [Zesuy/Plugin-Deepseek-Vision](https://github.com/Zesuy/Plugin-Deepseek-Vision) - CLIProxyAPI v7 plugin for DeepSeek Responses vision preprocessing
+
+* [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
+
+* [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more
+
+* [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+
+* [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
+
+* [larksuite/cli](https://github.com/larksuite/cli) - The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.
+
+* [ArvinLovegood/go-stock](https://github.com/ArvinLovegood/go-stock) - 🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
+
+* [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+
+* [dennisyang1986/opensqt\_market\_maker](https://github.com/dennisyang1986/opensqt_market_maker) - OpenSQT 是一个高性能、低延迟的加密货币做市商系统，专注于永续合约市场的做多网格交易策略。系统采用 Go 语言开发，基于 WebSocket 实时数据流驱动，旨在为 Binance、Bitget、Gate.io 等主流交易所提供稳定的流动性支持。
+
+* [browserwing/browserwing](https://github.com/browserwing/browserwing) - BrowserWing turns your browser actions into MCP commands Or Claude Skill, allowing AI agents to control browsers efficiently and reliably. Say goodbye to slow, token-heavy LLM interactions — let agents call commands directly for faster automation. Perfect for AI-driven tasks, browser automation, and boosting productivity.
+
+* [binggandata/feishu2mp](https://github.com/binggandata/feishu2mp) -
+
+* [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
+
+* [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
+
+* [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - System-wide ad-blocker and privacy guard for Windows, macOS and Linux.
+
+* [ludo-technologies/pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analysis for Python in the age of AI coding.
+
+* [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+
+* [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
+
+* [NVIDIA/nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) - Build and run containers leveraging NVIDIA GPUs
+
+* [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
+
+* [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
+
+* [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.
+
+* [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
+
+* [symflower/eval-dev-quality](https://github.com/symflower/eval-dev-quality) - DevQualityEval: An evaluation benchmark 📈 and framework to compare and evolve the quality of code generation of LLMs.
+
 ## Python
 
 * [Oldcircle/geo-sleuth](https://github.com/Oldcircle/geo-sleuth) - An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.
@@ -233,7 +319,7 @@
 
 * [shang-zhu/violin](https://github.com/shang-zhu/violin) - Open-source Video Translation Skill
 
-* [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks from images and video, and AI provenance metadata from images, video, and audio. Python library, CLI, and agent skill for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.
+* [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks from images and video, and AI provenance metadata from images, video, and audio. Python library, CLI, and agent skill for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks. By Victor Kuznetsov.
 
 * [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 
@@ -1127,34 +1213,6 @@
 
 * [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 
-## HTML
-
-* [smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab) - Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app
-
-* [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
-
-* [ConardLi/easy-learn-ai](https://github.com/ConardLi/easy-learn-ai) - Easy-to-understand AI learning resources for beginners.
-
-* [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-
-* [Jane-xiaoer/claude-design-principles](https://github.com/Jane-xiaoer/claude-design-principles) - Distilled design judgment from Claude Design system prompt, packaged as a Claude Code skill.
-
-* [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) - Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.
-
-* [ZhangHanDong/harness-engineering-from-cc-to-ai-coding](https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding) - Harness Engineering From Claude Code source code to AI Coding
-
-* [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
-
-* [joyce677/TrendRadar](https://github.com/joyce677/TrendRadar) - 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用
-
-* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-* [colin1114/clash](https://github.com/colin1114/clash) -
-
-* [LOWERTOP/Shadowrocket](https://github.com/LOWERTOP/Shadowrocket) - Shadowrocket 使用手册 补完计划
-
-* [xxnuo/serverless-markdown-convertor](https://github.com/xxnuo/serverless-markdown-convertor) - Markdown Conversion
-
 ## Markdown
 
 * [jakubkrehel/skills](https://github.com/jakubkrehel/skills) - A collection of agent skills that help you build great interfaces.
@@ -1335,88 +1393,6 @@
 
 * [houbb/sensitive-word](https://github.com/houbb/sensitive-word) -  👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
 
-## Swift
-
-* [bysiber/cleardisk](https://github.com/bysiber/cleardisk) - Free macOS menu bar app to visualize and clean developer caches (Xcode, node\_modules, CocoaPods, SPM, Docker, pip, Cargo). Reclaim disk space instantly.
-
-* [eliorpom-cmd/to-be-downloaded](https://github.com/eliorpom-cmd/to-be-downloaded) - A native macOS downloader built on yt-dlp. Paste a link, get the file — and drive it from your phone over your own Wi-Fi.
-
-* [thsnkhn/harbor](https://github.com/thsnkhn/harbor) - Beautiful native macOS download manager for direct links, magnets, and torrents.
-
-* [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
-
-* [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app
-
-* [RoversX/LaunchNext](https://github.com/RoversX/LaunchNext) - Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free.
-
-* [EEliberto/SurgeRelay-macOS](https://github.com/EEliberto/SurgeRelay-macOS) - 在 Mac 上管理、转换、编辑或分发 Surge 模块，通过固定订阅地址让 iPhone、iPad、Apple TV 和 Mac 等多款设备保持同步。
-
-* [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free, open-source native database client for macOS, Linux, iPhone and iPad.
-
-* [alejandrobujan/tendedero](https://github.com/alejandrobujan/tendedero) - Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.
-
-* [haplollc/ThinkingOrbs](https://github.com/haplollc/ThinkingOrbs) - Dotted, honestly-3D loading indicators for AI and agent interfaces in SwiftUI. Nine hand-tuned designs, two tuned sizes.
-
-* [robbietilton/Compositor](https://github.com/robbietilton/Compositor) - The Photoshop alternative for Mac
-
-* [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew's official macOS GUI
-
-* [sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo) - Wish you could bring the iPhone Duo effect to your MacBook?
-
-* [fayazara/Screendrop](https://github.com/fayazara/Screendrop) - A beautiful screenshot + screen recording + Loom alternative - all native, self hostable and free.
-
-* [steipete/RepoBar](https://github.com/steipete/RepoBar) - Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.
-
-* [bahattinkoc/ipaverse](https://github.com/bahattinkoc/ipaverse) - Download, re-sign, and sideload iOS, iPadOS, macOS, tvOS & visionOS apps without Xcode or Terminal — plus an authorized security-testing toolkit (ATS bypass, Frida injection, static scan, FairPlay dump).
-
-* [pluk-inc/Pluk](https://github.com/pluk-inc/Pluk) - Native macOS database client for MongoDB, Postgres, Convex, MySQL, & SQLite. AI does the querying, you explore your data ✨
-
-* [pluk-inc/himekuri](https://github.com/pluk-inc/himekuri) -
-
-* [pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview) - A simple Markdown viewer for reading .md files
-
-* [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor for Mac, iOS and iPadOS
-
-* [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
-
-* [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
-
-* [himomohi/AirTranslate](https://github.com/himomohi/AirTranslate) - AirTranslate macOS app
-
-* [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-
-* [mylxsw/typeflux](https://github.com/mylxsw/typeflux) - Typeflux is a macOS menu bar voice input tool built with Swift. It is designed for a fast "hold to talk, release to insert" workflow: press a hotkey, speak naturally, let the app transcribe your speech, and send the resulting text back into the currently focused app.
-
-* [AssistoLab/DropDown](https://github.com/AssistoLab/DropDown) - A Material Design drop down for iOS
-
-* [KelvinJin/AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.
-
-* [joewongjc/type4me](https://github.com/joewongjc/type4me) - MacOS/iOS 语音输入法，实时识别、大模型文本优化、全本地存储
-
-* [wzh4869/AppPorts](https://github.com/wzh4869/AppPorts) - 📦 A macOS utility to seamlessly migrate applications to external storage and reclaim local disk space.【一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间】
-
-* [maustinstar/swiftui-drawer](https://github.com/maustinstar/swiftui-drawer) - A SwiftUI bottom-up controller, like in the Maps app. Drag to expand or minimize.
-
-* [nathantannar4/Engine](https://github.com/nathantannar4/Engine) - Engine makes it easier to create idiomatic APIs and Views that feel natural in SwiftUI without sacrificing performance
-
-* [jordansinger/SwiftUI-Kit](https://github.com/jordansinger/SwiftUI-Kit) - A SwiftUI system components and interactions demo app
-
-* [peripheryapp/periphery](https://github.com/peripheryapp/periphery) - A tool to identify unused code in Swift projects.
-
-* [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A light, native Markdown notebook for Mac, iPhone and iPad.
-
-* [nook-browser/Nook](https://github.com/nook-browser/Nook) - A new browser, not owned by Atlassian.
-
-* [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
-
-* [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - macOS Adobe apps download & installer
-
-* [ggkevinnnn/LaunchNow](https://github.com/ggkevinnnn/LaunchNow) - Alternative Launchpad for MacOS Tahoe & Golden Gate.
-
-* [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
-
-* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
-
 ## Objective-C
 
 * [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open-source RSS/Atom/JSON feed newsreader for macOS.
@@ -1424,6 +1400,32 @@
 * [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
 
 * [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus) - Create native macOS applications from command line scripts.
+
+## HTML
+
+* [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
+
+* [ConardLi/easy-learn-ai](https://github.com/ConardLi/easy-learn-ai) - Easy-to-understand AI learning resources for beginners.
+
+* [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+
+* [Jane-xiaoer/claude-design-principles](https://github.com/Jane-xiaoer/claude-design-principles) - Distilled design judgment from Claude Design system prompt, packaged as a Claude Code skill.
+
+* [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) - Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.
+
+* [ZhangHanDong/harness-engineering-from-cc-to-ai-coding](https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding) - Harness Engineering From Claude Code source code to AI Coding
+
+* [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
+
+* [joyce677/TrendRadar](https://github.com/joyce677/TrendRadar) - 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用
+
+* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+* [colin1114/clash](https://github.com/colin1114/clash) -
+
+* [LOWERTOP/Shadowrocket](https://github.com/LOWERTOP/Shadowrocket) - Shadowrocket 使用手册 补完计划
+
+* [xxnuo/serverless-markdown-convertor](https://github.com/xxnuo/serverless-markdown-convertor) - Markdown Conversion
 
 ## Dart
 
