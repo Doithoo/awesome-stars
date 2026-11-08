@@ -230,7 +230,7 @@
 
 * [arxhr007/Aliens\_eye](https://github.com/arxhr007/Aliens_eye) - AI powered OSINT engine to discover and map  7,700+ social media identities across the web
 
-* [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+* [OpenMontageInc/OpenMontage](https://github.com/OpenMontageInc/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
 
 * [shang-zhu/violin](https://github.com/shang-zhu/violin) - Open-source Video Translation Skill
 
@@ -591,8 +591,6 @@
 * [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
 
 * [RadishXN/run-abroad](https://github.com/RadishXN/run-abroad) - 填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么
-
-* [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) - 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
 
 * [HeyPuter/everything](https://github.com/HeyPuter/everything) - We're rebuilding and open-sourcing the world’s software from scratch.
 
@@ -1132,6 +1130,8 @@
 
 * [smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab) - Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app
 
+* [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) - 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
+
 * [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 
 * [ConardLi/easy-learn-ai](https://github.com/ConardLi/easy-learn-ai) - Easy-to-understand AI learning resources for beginners.
@@ -1352,7 +1352,7 @@
 
 * [EEliberto/SurgeRelay-macOS](https://github.com/EEliberto/SurgeRelay-macOS) - 在 Mac 上管理、转换、编辑或分发 Surge 模块，通过固定订阅地址让 iPhone、iPad、Apple TV 和 Mac 等多款设备保持同步。
 
-* [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
+* [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free, open-source native database client for macOS, Linux, iPhone and iPad.
 
 * [alejandrobujan/tendedero](https://github.com/alejandrobujan/tendedero) - Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.
 
