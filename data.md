@@ -30,7 +30,6 @@
 * [TeX](#tex)
 * [Vue](#vue)
 * [Scala](#scala)
-* [Cuda](#cuda)
 * [Less](#less)
 * [LLVM](#llvm)
 
@@ -592,6 +591,8 @@
 
 * [RadishXN/run-abroad](https://github.com/RadishXN/run-abroad) - 填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么
 
+* [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) - 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
+
 * [HeyPuter/everything](https://github.com/HeyPuter/everything) - We're rebuilding and open-sourcing the world’s software from scratch.
 
 * [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) - A toolbox of film styles made in code for Claude Code: 66 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：66 种现成风格，也能做出你自己的
@@ -1130,8 +1131,6 @@
 
 * [smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab) - Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app
 
-* [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) - 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
-
 * [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 
 * [ConardLi/easy-learn-ai](https://github.com/ConardLi/easy-learn-ai) - Easy-to-understand AI learning resources for beginners.
@@ -1600,6 +1599,8 @@
 
 * [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) - Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research.
 
+* [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - An Open-source book with Modern CUDA learning Notes for Beginners - BF16/FP8/FP4, HGEMM, CuTe, Flash-Attention, etc.
+
 * [SLAM-Handbook-contributors/slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
 
 ## Vue
@@ -1611,10 +1612,6 @@
 ## Scala
 
 * [joernio/joern](https://github.com/joernio/joern) - Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
-
-## Cuda
-
-* [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - An Open-source book with Modern CUDA learning Notes for Beginners - BF16/FP8/FP4, HGEMM, CuTe, Flash-Attention, etc.
 
 ## Less
 
