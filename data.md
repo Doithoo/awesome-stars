@@ -35,6 +35,8 @@
 
 ## Rust
 
+* [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) - misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
+
 * [muxy-app/muxy](https://github.com/muxy-app/muxy) - Lightweight and Memory efficient terminal multiplexer
 
 * [longbridge/nsh](https://github.com/longbridge/nsh) - Native Shell is a native UI framework for iOS, Android, macOS, Windows, Linux and the web, built in Rust.
@@ -111,7 +113,11 @@
 
 * [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 
+* [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
+
 ## Swift
+
+* [hubab1/OpenASO](https://github.com/hubab1/OpenASO) - App Store monitoring for keyword rankings, competitors, ratings, and reviews.
 
 * [lifedever/TaskTick](https://github.com/lifedever/TaskTick) - A native macOS app for managing scheduled tasks. Built with SwiftUI + SwiftData. Menu bar resident, cron expressions, script execution, and more.
 
@@ -1051,7 +1057,7 @@
 
 * [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 
-* [octree-labs/octree](https://github.com/octree-labs/octree) - Octree - Open Source AI LaTeX Editor
+* [octree-labs/octree](https://github.com/octree-labs/octree) - Open Source AI LaTeX Editor
 
 * [ding113/claude-code-hub](https://github.com/ding113/claude-code-hub) - 一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能。
 
@@ -1580,8 +1586,6 @@
 * [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast C++/CUDA neural network framework
 
 * [luwill/Deep-Learning-Image-Segmentation](https://github.com/luwill/Deep-Learning-Image-Segmentation) - Deep Learning Image Segmentation: Theory and Practice
-
-* [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 
 * [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 
