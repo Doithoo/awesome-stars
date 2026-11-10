@@ -35,6 +35,8 @@
 
 ## TypeScript
 
+* [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
+
 * [FluentRead/FluentRead](https://github.com/FluentRead/FluentRead) - An open-source browser extension for bilingual translation. 一款开源的浏览器双语翻译插件。
 
 * [decantr-ai/decantr](https://github.com/decantr-ai/decantr) - Decantr AI design intelligence layer for AI-generated web applications
