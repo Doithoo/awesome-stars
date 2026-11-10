@@ -49,7 +49,7 @@
 
 * [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
 
-* [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
+* [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - PdfCraft: An open-source PDF reader and editor written from scratch in pure Rust
 
 * [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 
