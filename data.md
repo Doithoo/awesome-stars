@@ -1451,7 +1451,7 @@
 
 ## Dart
 
-* [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过精听、跟读、盲听、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。
+* [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是最专业的英语精听 App，通过精听、跟读、盲听、复述和间隔复习，自动驱动你把每一段音频练懂、练熟、练到会说。
 
 * [KaringX/clashmi](https://github.com/KaringX/clashmi) - Clash Mihomo for iOS/MacOS/Android/Windows/Linux
 
